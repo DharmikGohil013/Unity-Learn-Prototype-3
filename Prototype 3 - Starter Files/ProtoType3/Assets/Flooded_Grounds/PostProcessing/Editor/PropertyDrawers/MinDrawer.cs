@@ -1,8 +1,19 @@
 using UnityEngine;
-using UnityEngine.PostProcessing;
+
+// Define MinAttribute
+public class MinAttribute : PropertyAttribute
+{
+    public float min;
+
+    public MinAttribute(float min)
+    {
+        this.min = min;
+    }
+}
 
 namespace UnityEditor.PostProcessing
 {
+    // Create a custom property drawer for MinAttribute
     [CustomPropertyDrawer(typeof(MinAttribute))]
     sealed class MinDrawer : PropertyDrawer
     {
