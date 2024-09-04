@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Flooded_Grounds/Scenes/Scene_A.unity
+- path: Assets/Flooded_Grounds/Scenes/PreAsembeld_Buildings.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

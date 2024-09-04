@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Git Hub\\Unity-Learn-Prototype-3\\Prototype 3 - Starter Files\\ProtoType3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AACC1AE-CF67-4F53-E3E0-2A96D0EA8166}|Assembly-CSharp.csproj|d:\\git hub\\unity-learn-prototype-3\\prototype 3 - starter files\\prototype3\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AACC1AE-CF67-4F53-E3E0-2A96D0EA8166}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3EAD341-EDBC-C97A-2CAE-7CFE5F415940}|Assembly-CSharp-Editor.csproj|d:\\git hub\\unity-learn-prototype-3\\prototype 3 - starter files\\prototype3\\assets\\flooded_grounds\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EAD341-EDBC-C97A-2CAE-7CFE5F415940}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\flooded_grounds\\postprocessing\\editor\\propertydrawers\\mindrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Git Hub\\Unity-Learn-Prototype-3\\Prototype 3 - Starter Files\\ProtoType3\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\Git Hub\\Unity-Learn-Prototype-3\\Prototype 3 - Starter Files\\ProtoType3\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:16:16.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MinDrawer.cs",
               "DocumentMoniker": "D:\\Git Hub\\Unity-Learn-Prototype-3\\Prototype 3 - Starter Files\\ProtoType3\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
               "RelativeDocumentMoniker": "Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",

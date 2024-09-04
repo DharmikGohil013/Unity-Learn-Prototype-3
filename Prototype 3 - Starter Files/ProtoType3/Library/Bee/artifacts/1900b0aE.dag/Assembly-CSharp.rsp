@@ -404,6 +404,7 @@
 "Assets/Flooded_Grounds/Scripts/FPSController/CharController_Motor.cs"
 "Assets/Flooded_Grounds/Scripts/FPSDisplay.cs"
 "Assets/Flooded_Grounds/Scripts/WaterFloat.cs"
+"Assets/PlayerMovement.cs"
 -langversion:9.0
 /deterministic
 /optimize+
